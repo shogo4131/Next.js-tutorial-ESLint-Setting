@@ -1,5 +1,5 @@
 ---
-title: 'Next.js Tutorial'
+title: 'Vercel Deploy'
 date: '2021-08-30'
 ---
 
